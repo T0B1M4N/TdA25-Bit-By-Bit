@@ -1,3 +1,1 @@
-export default defineEventHandler(async() => {
-    return {"organization": "Student Cyber Games"}
-})
+{"organization": "Student Cyber Games"}
