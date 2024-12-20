@@ -1,1 +1,3 @@
-{"organization": "Student Cyber Games"}
+export default async() => {
+    return {"organization": "Student Cyber Games"}
+}

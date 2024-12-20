@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-i7sb9d-!peim6oa_l@cbjn19q7vd&28$(w1&c7go-n4j6xgl-t'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["c837307a.app.deploy.tourde.app"]
 
 
 # Application definition
